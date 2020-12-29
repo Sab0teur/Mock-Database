@@ -1,0 +1,44 @@
+{
+      events: [
+        {
+          id: 5928101,
+          category: "animal welfare",
+          title: "Three:::AM",
+          description: "A drum 'n' bass dust up 'til the early hours",
+          location: "The Black Cat",
+          date: "January 28, 2022",
+          time: "09:00 pm",
+          organizer: "Kat Laydee"
+        },
+        {
+          id: 4582797,
+          category: "food",
+          title: "Community Service",
+          description: "A Thursday night, pre-weekend starter course, featuring local artists and djs",
+          location: "The Provincial",
+          date: "March 14, 2022",
+          time: "09:00 pm",
+          organizer: "Fern Pollin"
+        },
+        {
+          id: 8419988,
+          category: "sustainability",
+          title: "NightLife",
+          description: "Heavy human traffic, glam, good vibes and phat beats. This is Life. NightLife.",
+          location: "Night Cat",
+          date: "July 22, 2022",
+          time: "09:00 pm",
+          organizer: "Carey Wales"
+        },
+        {
+          id: 8419964,
+          category: "sustainability",
+          title: "Back-Lit",
+          description: "A sunday sesh, for added lit-ness at the backend of the weekend",
+          location: "Night Cat",
+          date: "April 16, 2022",
+          time: "09:00 pm",
+          organizer: "Carey Wales"
+        }
+      ]
+    }
