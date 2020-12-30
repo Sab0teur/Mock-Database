@@ -2,7 +2,7 @@
   "events": [
     {
       "id": 123,
-      "category": "animal welfare",
+      "category": "Drum 'n' Bass",
       "title": "Three:::AM",
       "description": "A drum 'n' bass dust up 'til the early hours",
       "location": "The Black Cat",
@@ -12,7 +12,7 @@
     },
     {
       "id": 4582797,
-      "category": "food",
+      "category": "Local Djs",
       "title": "Community Service",
       "description": "A Thursday night, pre-weekend assignment, featuring local artists and djs",
       "location": "The Provincial",
@@ -22,7 +22,7 @@
     },
     {
       "id": 8419964,
-      "category": "sustainability",
+      "category": "Down Sessions",
       "title": "Back-Lit",
       "description": "A sunday sesh, for added lit-ness at the backend of the weekend",
       "location": "Night Cat",
