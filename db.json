@@ -1,33 +1,33 @@
 {
   "events": [
     {
-      "id": 123,
+      "id": 5928101,
       "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
+      "title": "Three:::AM",
+      "description": "A drum 'n' bass dust up 'til the early hours",
+      "location": "The Black Cat",
       "date": "January 28, 2022",
-      "time": "12:00",
+      "time": "09:00 pm",
       "organizer": "Kat Laydee"
     },
     {
-      "id": 456,
+      "id": 4582797,
       "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
+      "title": "Community Service",
+      "description": "A Thursday night, pre-weekend starter course, featuring local artists and djs",
+      "location": "The Provincial",
       "date": "March 14, 2022",
-      "time": "10:00",
+      "time": "09:00 pm",
       "organizer": "Fern Pollin"
     },
     {
-      "id": 789,
+      "id": 8419964,
       "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
+      "title": "Back-Lit",
+      "description": "A sunday sesh, for added lit-ness at the backend of the weekend",
+      "location": "Night Cat",
+      "date": "April 16, 2022",
+      "time": "09:00 pm",
       "organizer": "Carey Wales"
     }
   ]
